@@ -1,0 +1,126 @@
+# English translation for PACKAGE package
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Diego Ramil López <diego.ramil.lopez@udc.es>, 2018.
+# Noé Vila Muñoz <noe.vila@udc.es>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-23 20:29+0200\n"
+"PO-Revision-Date: 2018-10-23 20:39+0200\n"
+"Last-Translator: Diego Ramil López <diego.ramil.lopez@udc.es>\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: view.py:18
+msgid "Records of events"
+msgstr ""
+
+#: view.py:27
+msgid "List events"
+msgstr ""
+
+#: view.py:31
+msgid "Calendar"
+msgstr ""
+
+#: view.py:34
+msgid "Monthly summary"
+msgstr ""
+
+#: view.py:286
+msgid "Filter"
+msgstr ""
+
+#: view.py:291
+msgid "All"
+msgstr ""
+
+#: view.py:345
+msgid "Events finished: "
+msgstr ""
+
+#: view.py:348
+msgid "Events pending: "
+msgstr ""
+
+#: view.py:360
+msgid "  New event  "
+msgstr ""
+
+#: view.py:376 view.py:646
+msgid "From"
+msgstr ""
+
+#: view.py:384 view.py:655
+msgid "To"
+msgstr ""
+
+#: view.py:392 view.py:664
+msgid "Category"
+msgstr ""
+
+#: view.py:407 view.py:626 view.py:680
+msgid "Notes"
+msgstr ""
+
+#: view.py:427
+msgid "Create"
+msgstr ""
+
+#: view.py:526 view.py:631
+msgid "Modify"
+msgstr ""
+
+#: view.py:531 view.py:752
+msgid "Delete"
+msgstr ""
+
+#: view.py:608
+msgid "day"
+msgstr ""
+
+#: view.py:610
+msgid "days"
+msgstr ""
+
+#: view.py:613
+msgid "hour"
+msgstr ""
+
+#: view.py:615
+msgid "hours"
+msgstr ""
+
+#: view.py:618
+msgid "minute"
+msgstr ""
+
+#: view.py:620
+msgid "minutes"
+msgstr ""
+
+#: view.py:621
+msgid "Duration: "
+msgstr ""
+
+#: view.py:759
+msgid "Remove this event?"
+msgstr ""
+
+#: view.py:778
+msgid "General"
+msgstr ""
+
+#: view.py:778
+msgid "Study"
+msgstr ""
+
+#: view.py:778
+msgid "Sport"
+msgstr ""

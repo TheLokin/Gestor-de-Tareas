@@ -1,0 +1,126 @@
+# Spanish translation for PACKAGE package
+# Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Diego Ramil López <diego.ramil.lopez@udc.es>, 2018.
+# Noé Vila Muñoz <noe.vila@udc.es>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-23 20:29+0200\n"
+"PO-Revision-Date: 2018-10-23 20:40+0200\n"
+"Last-Translator: Diego Ramil López <diego.ramil.lopez@udc.es>\n"
+"Language-Team: Espanish\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: view.py:18
+msgid "Records of events"
+msgstr "Registro de eventos"
+
+#: view.py:27
+msgid "List events"
+msgstr "Lista de eventos"
+
+#: view.py:31
+msgid "Calendar"
+msgstr "Calendario"
+
+#: view.py:34
+msgid "Monthly summary"
+msgstr "Resumen mensual"
+
+#: view.py:286
+msgid "Filter"
+msgstr "Filtro"
+
+#: view.py:291
+msgid "All"
+msgstr "Todo"
+
+#: view.py:345
+msgid "Events finished: "
+msgstr "Eventos finalizados: "
+
+#: view.py:348
+msgid "Events pending: "
+msgstr "Eventos pendientes: "
+
+#: view.py:360
+msgid "  New event  "
+msgstr "  Nuevo evento  "
+
+#: view.py:376 view.py:646
+msgid "From"
+msgstr "Desde"
+
+#: view.py:384 view.py:655
+msgid "To"
+msgstr "Hasta"
+
+#: view.py:392 view.py:664
+msgid "Category"
+msgstr "Categoría"
+
+#: view.py:407 view.py:626 view.py:680
+msgid "Notes"
+msgstr "Notas"
+
+#: view.py:427
+msgid "Create"
+msgstr "Crear"
+
+#: view.py:526 view.py:631
+msgid "Modify"
+msgstr "Modificar"
+
+#: view.py:531 view.py:752
+msgid "Delete"
+msgstr "Eliminar"
+
+#: view.py:608
+msgid "day"
+msgstr "día"
+
+#: view.py:610
+msgid "days"
+msgstr "días"
+
+#: view.py:613
+msgid "hour"
+msgstr "hora"
+
+#: view.py:615
+msgid "hours"
+msgstr "horas"
+
+#: view.py:618
+msgid "minute"
+msgstr "minuto"
+
+#: view.py:620
+msgid "minutes"
+msgstr "minutos"
+
+#: view.py:621
+msgid "Duration: "
+msgstr "Duración: "
+
+#: view.py:759
+msgid "Remove this event?"
+msgstr "¿Desea eliminar este evento?"
+
+#: view.py:778
+msgid "General"
+msgstr "General"
+
+#: view.py:778
+msgid "Study"
+msgstr "Estudiar"
+
+#: view.py:778
+msgid "Sport"
+msgstr "Deporte"
